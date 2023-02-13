@@ -1,57 +1,30 @@
-# kang-hyun
-자기소개서
-<details>
- <summary>
-         &nbsp;<a href = "https://soup.pw">스프</a> : 흩어져 있는 스터디와 프로젝트가 모여있는 곳 기획, 서버 전체 담당.  <sub>(방문자 9천+ , 조회수 9만+, 구글검색 1.1위) (2022.07 ~ 운영중)</sub>
- </summary>
-&nbsp;
- 
-![soup2](https://user-images.githubusercontent.com/94730032/208659106-16f7d859-40e2-4217-832f-5cc04d10e1ff.png)
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-![20230121_120351](https://user-images.githubusercontent.com/94730032/213840975-14a69d7f-d635-4912-9edc-6623c3e0583b.png)
+<p align="center"> Techs that I've used at least once </p>
 
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+</p>
 
+<br>
+<br>
 
- <details> &nbsp;
-     <summary>
-          &nbsp;<a href = "https://play.google.com/store/apps/details?id=com.chaksong.release">착송 </a>: 착오송금 반환 서비스 스타트업  서버 전체, 은행 API 담당  <sub>(2022.08 - 2023.~ 운영중)  </sub> 
-     </summary>
-&nbsp;
- <sub> 
-  
-  [ 금융기관 선정 서비스 '착송' ] <br>
-  
-  2022 예비창업패키지(정부지원사업) 선정 서비스 <br>
-  
-  2022 부산은행 썸인큐베이터 7기 선정 서비스 <br>
-  
-  2022 부산 창업 촉진 사업 액셀러레이팅 선정 기업 <br>
-  
-  2022 부산 클라우드 엑스포 전시 서비스 <br>
-  
-  2022 부산 혁신 창업기업 육성 플랫폼(BIGS) 사업 우수 기업 선정 <br>
-  
-  <a href = "https://n.news.naver.com/article/014/0004938410">출시 기사 링크</a>
-  
- </sub> 
- 
-![회사소개 삽입 이미지 2 (1)](https://user-images.githubusercontent.com/94730032/201576242-11cdfd72-fe51-46df-909d-4e478c0f91f1.svg)
-
-![(figma) 엑스포 벽면 그래픽 디자인_3 (1)](https://user-images.githubusercontent.com/94730032/201576237-71d333ae-26c9-43c3-8f73-c2fc3968b356.svg)
-
-
- </details>
- 
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder.  서버 파트장  : 스프링 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.1)  </sub> </li>
-
- <details open> &nbsp;
- <summary>
-         &nbsp;<a href = "">신작 </a>: 신세대의 작품을 만나다. 백엔드, 배포 담당 <sub>(2022.10 ~ 2023.1)  진행중</sub> 
- </summary>
- 
-  ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
- 
- </details>
-  
-  
+<h3 align="center"> Me </h3>
+<p align="center">
+  <a href="https://www.instagram.com/kanghyun00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kanghyun00/"/></a>&nbsp
+  <a href="mailto:andy000923@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=andy000923@gmail.com"/></a>
+</p>
+<br>
