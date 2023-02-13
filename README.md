@@ -35,7 +35,7 @@
 
 <br>
 
-<h3 align="center"> Me </h3>
+<h3 align="center"> Contact Me </h3>
 <p align="center">
   <a href="https://www.instagram.com/kanghyun00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kanghyun00/"/></a>&nbsp
   <a href="mailto:andy000923@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=andy000923@gmail.com"/></a>
