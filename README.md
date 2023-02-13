@@ -11,6 +11,8 @@
  
  </details>
 
+<br>
+<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -31,7 +33,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
 <br>
 
 <h3 align="center"> Me </h3>
