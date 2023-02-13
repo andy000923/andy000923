@@ -1,5 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YunKangHyun&fontSize=70&animation=twinkling)
 
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder. Leader : 안드로이드 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.2)  </sub> </li>
+
+ <details open> &nbsp;
+ <summary>
+         &nbsp;<a href = "https://github.com/forspacedev">(주)포스페이스랩</a>: 외식프랜차이즈 경영관리 데이터솔루션 스타트업. 프론트엔드 <a href = "https://www.datapuree.co/main_0001_01_dtpr.act">랜딩페이지</a> 수정 기여, 데이터서비스 관련 업무 체험 <sub>(2023.1.16 ~ 2023.2.28)  진행중</sub> 
+ </summary>
+ 
+  ![https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg](https://uploads-ssl.webflow.com/5f533da673406260269e6257/61221ead3ccadc628561825a_Frame%402x.png)
+ 
+ </details>
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
