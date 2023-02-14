@@ -16,7 +16,7 @@
          &nbsp;<a href = "https://univcert.com">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹 디자인, 프론트 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
  </summary>
  
-  ![Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)
+  ![[Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)](https://univcert.com/static/media/UNIVCERT.e743fea98aa3c8b8ec8fdb01ae2d5634.svg)
  
  </details>
 <br>
