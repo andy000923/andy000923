@@ -2,7 +2,7 @@
 
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> Founder. Leader : 안드로이드 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.2)  </sub> </li>
 
- <details> &nbsp;
+ <details open> &nbsp;
  <summary>
          &nbsp;<a href = "https://github.com/forspacedev">(주)포스페이스랩</a>: 외식프랜차이즈 경영관리 데이터솔루션 스타트업. 프론트엔드 <a href = "https://www.datapuree.co/main_0001_01_dtpr.act">랜딩페이지</a> 수정 기여, 데이터서비스 관련 업무 체험 <sub>(2023.1.16 ~ 2023.2.28)  진행중</sub> 
  </summary>
@@ -11,11 +11,11 @@
  
  </details>
  
- <details> &nbsp;
+ <details open> &nbsp;
  <summary>
          &nbsp;<a href = "https://univcert.com">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹 디자인, 프론트 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
  </summary>
-  https://univcert.com/opengraph-image.png
+  ![Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)
  </details>
 <br>
 <br>
