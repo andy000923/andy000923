@@ -27,7 +27,9 @@
          &nbsp;<a href = "https://pickle60.notion.site/PICKLE-bca7c69d62a84714b342dc2e148102fb">PICKLE </a>: 이젠 옷도 당일 픽업, PICKLE 안드로이드 파트 담당 <sub>(2023.01 ~ 2023.02)  </sub> 
   &nbsp;<a href = "https://github.com/forspacedev">유니브서트 깃허브</a>
  </summary>
-  ![Group 258 (1)](https://pickle60.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffb18b5fe-8920-4ca3-b888-fc0121b7b931%2F%25EB%25A1%259C%25EA%25B3%25A01.png?table=block&id=bca7c69d-62a8-4714-b342-dc2e148102fb&spaceId=5d153a95-aadb-4e34-9e0a-d86ff3b2c1e7&width=250&userId=&cache=v2)
+  
+ ![Group 258 (1)](https://pickle60.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffb18b5fe-8920-4ca3-b888-fc0121b7b931%2F%25EB%25A1%259C%25EA%25B3%25A01.png?table=block&id=bca7c69d-62a8-4714-b342-dc2e148102fb&spaceId=5d153a95-aadb-4e34-9e0a-d86ff3b2c1e7&width=250&userId=&cache=v2)
+
 </details>
 <br>
 <br>
