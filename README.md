@@ -6,17 +6,21 @@
  <summary>
          &nbsp;<a href = "https://github.com/forspacedev">(주)포스페이스랩</a>: 외식프랜차이즈 경영관리 데이터솔루션 스타트업. 프론트엔드 <a href = "https://www.datapuree.co/main_0001_01_dtpr.act">랜딩페이지</a> 수정 기여, 데이터서비스 관련 업무 체험 <sub>(2023.1.16 ~ 2023.2.28)  진행중</sub>
    &nbsp;<a href = "https://github.com/forspacedev">포스페이스랩 깃허브</a>
- </summary>
-  ![https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg](https://uploads-ssl.webflow.com/5f533da673406260269e6257/61221ead3ccadc628561825a_Frame%402x.png)
- </details>
+</summary>
+  
+ ![https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg](https://uploads-ssl.webflow.com/5f533da673406260269e6257/61221ead3ccadc628561825a_Frame%402x.png)
+ 
+</details>
  
 <details open> &nbsp;
  <summary>
          &nbsp;<a href = "https://univcert.com">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹 디자인, <a href = "https://univcert.com">프론트엔드</a> 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
   &nbsp;<a href = "https://github.com/forspacedev">유니브서트 깃허브</a>
  </summary>
-  ![Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)
- </details>
+  
+ ![Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)
+ 
+</details>
  
 <details open> &nbsp;
  <summary>
