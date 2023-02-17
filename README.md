@@ -11,7 +11,7 @@
  
 </details>
  
-<details open> &nbsp;
+<details hide> &nbsp;
  <summary>
          &nbsp;<a href = "https://fork-player-abb.notion.site/API-63617df354c042c39382d7f2d9a9bab9">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹 디자인, <a href = "https://univcert.com">프론트엔드</a> 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
  </summary>
