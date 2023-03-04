@@ -4,7 +4,7 @@
 
  <details hide> &nbsp;
  <summary>
-         &nbsp;<a href = "https://www.forspacelab.com/">(주)포스페이스랩</a>: 외식프랜차이즈 경영관리 데이터솔루션 스타트업. 프론트엔드 <a href = "https://www.datapuree.co/main_0001_01_dtpr.act">랜딩페이지</a> 수정 기여, 데이터서비스 관련 업무 체험 <sub>(2023.1.16 ~ 2023.2.28)</sub>
+         &nbsp;<a href = "https://www.forspacelab.com/">(주)포스페이스랩</a> : 외식프랜차이즈 경영관리 데이터솔루션 스타트업. 프론트엔드 <a href = "https://www.datapuree.co/main_0001_01_dtpr.act">랜딩페이지</a> 수정 기여, 데이터서비스 관련 업무 체험 <sub>(2023.1.16 ~ 2023.2.28)</sub>
 </summary>
   
  ![https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg](https://uploads-ssl.webflow.com/5f533da673406260269e6257/61221ead3ccadc628561825a_Frame%402x.png)
@@ -13,7 +13,7 @@
  
 <details hide> &nbsp;
  <summary>
-         &nbsp;<a href = "https://fork-player-abb.notion.site/API-63617df354c042c39382d7f2d9a9bab9">UNIVCERT </a>: 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹 디자인, <a href = "https://univcert.com">프론트엔드</a> 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
+         &nbsp;<a href = "https://fork-player-abb.notion.site/API-63617df354c042c39382d7f2d9a9bab9">UNIVCERT</a> : 단 한 줄의 코드로 메일 및 대학 인증 끝내기🔹 디자인, <a href = "https://univcert.com">프론트엔드</a> 전체 담당 <sub>(2023.02 ~ 운영중)  </sub> 
  </summary>
   
  ![Group 258 (1)](https://user-images.githubusercontent.com/94730032/218711384-c7b7099c-da4a-4676-b48e-bcd278cf7e08.png)
@@ -22,7 +22,7 @@
  
 <details hide> &nbsp;
  <summary>
-         &nbsp;<a href = "https://pickle60.notion.site/PICKLE-bca7c69d62a84714b342dc2e148102fb">PICKLE </a>: 이젠 옷도 당일 픽업, PICKLE 안드로이드 파트 담당 <sub>(2023.01 ~ 2023.02)  </sub> 
+         &nbsp;<a href = "https://pickle60.notion.site/PICKLE-bca7c69d62a84714b342dc2e148102fb">PICKLE</a> : 이젠 옷도 당일 픽업, PICKLE 안드로이드 파트 담당 <sub>(2023.01 ~ 2023.02)  </sub> 
  </summary>
   
  ![Group 258 (1)](https://pickle60.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffb18b5fe-8920-4ca3-b888-fc0121b7b931%2F%25EB%25A1%259C%25EA%25B3%25A01.png?table=block&id=bca7c69d-62a8-4714-b342-dc2e148102fb&spaceId=5d153a95-aadb-4e34-9e0a-d86ff3b2c1e7&width=250&userId=&cache=v2)
