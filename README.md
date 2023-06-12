@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=안녕하세요.윤강현입니다.&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=안녕하세요&nbsp;윤강현입니다&fontSize=50&animation=twinkling)
 
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 3기 Founder. Leader : 안드로이드 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.02)</sub> </li> <br>
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 4기 회장 : 웹 리액트 스터디 리드, 프로젝트 리드  <sub>(2023.03 ~ 2023.08)</sub> </li> <br>
