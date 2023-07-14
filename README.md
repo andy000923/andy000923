@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=반갑습니다&nbsp;윤강현입니다&fontSize=50&animation=twinkling)
 
-<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 3기 Founder. Leader : 안드로이드 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.02)</sub> </li> <br>
+ <details hide> &nbsp;
+ <summary>
+         &nbsp;<a href = "https://www.forspacelab.com/">(주)포스페이스랩</a> : 외식프랜차이즈 경영관리 데이터솔루션 스타트업. 프론트엔드 <a href = "https://www.datapuree.co/main_0001_01_dtpr.act">랜딩페이지</a> 수정 기여, 데이터서비스 관련 업무 체험 <sub>(2023.1.16 ~ 2023.2.28)</sub>
+</summary>
+
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 4기 회장 : 웹 리액트 스터디 리드, 프로젝트 리드  <sub>(2023.03 ~ 2023.08)</sub> </li> <br>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 3기 Founder. Leader : 안드로이드 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.02)</sub> </li> <br>
 
  <details hide> &nbsp;
  <summary>
