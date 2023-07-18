@@ -5,8 +5,8 @@
          &nbsp;<a href = "https://storytaco.com/">(주)스토리타코</a> : 글로벌 인터렉티브 모바일 게임 회사. 프론트엔드 <a href = "https://storyoffer.de/Home">오퍼월 프로젝트</a> 기획, 디자인, 퍼블리시 <sub>(2023.7.5 ~ 2023.8.30)</sub>
 </summary>
   
- !https://storytaco.com/common/img/layout/flogo.png
- 
+ ![https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg](https://storytaco.com/common/img/layout/flogo.png)
+
 </details>
 
 
