@@ -4,7 +4,7 @@
  <summary>
          &nbsp;<a href = "https://storytaco.com/">(주)스토리타코</a> : 글로벌 인터렉티브 모바일 게임 회사. <a href = "https://storyoffer.de/Home">오퍼월 프로젝트</a> 기획, 디자인, 퍼블리시 <sub>(2023.7.5 ~ 2023.8.30)</sub>
 </summary>
-  <img src="https://storytaco.com/common/img/layout/flogo.png" width="400px"/>
+  <img src="https://storytaco.com/common/img/layout/flogo.png"/>
 </details>
 
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 4기 회장 : 웹 리액트 스터디 리드, 프로젝트 리드  <sub>(2023.03 ~ 2023.08)</sub> </li> <br>
@@ -14,9 +14,7 @@
  <summary>
          &nbsp;<a href = "https://www.forspacelab.com/">(주)포스페이스랩</a> : 외식프랜차이즈 경영관리 데이터솔루션 스타트업. <a href = "https://www.datapuree.co/main_0001_01_dtpr.act">랜딩페이지</a> 수정 기여, 데이터서비스 관련 업무 체험 <sub>(2023.1.16 ~ 2023.2.28)</sub>
 </summary>
-  
- ![https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg](https://uploads-ssl.webflow.com/5f533da673406260269e6257/61221ead3ccadc628561825a_Frame%402x.png)
- 
+  <img src="https://uploads-ssl.webflow.com/5f533da673406260269e6257/61221ead3ccadc628561825a_Frame%402x.png"/>
 </details>
  
 <details hide> &nbsp;
