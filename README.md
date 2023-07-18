@@ -1,5 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=반갑습니다&nbsp;윤강현입니다&fontSize=50&animation=twinkling)
 
+ <details hide> &nbsp;
+ <summary>
+         &nbsp;<a href = "https://storytaco.com/">(주)스토리타코</a> : 글로벌 인터렉티브 모바일 게임 회사. 프론트엔드 <a href = "https://storyoffer.de/Home">오퍼월 프로젝트</a> 기획, 디자인, 퍼블리시 <sub>(2023.7.5 ~ 2023.8.30)</sub>
+</summary>
+  
+ !https://storytaco.com/common/img/layout/flogo.png
+ 
+</details>
+
+
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 4기 회장 : 웹 리액트 스터디 리드, 프로젝트 리드  <sub>(2023.03 ~ 2023.08)</sub> </li> <br>
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 3기 Founder. Leader : 안드로이드 스터디, 프로젝트 리드  <sub>(2022.09 ~ 2023.02)</sub> </li> <br>
 
