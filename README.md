@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=윤강현입니다&fontSize=50&animation=twinkling)
 
+<hr>
+
+<h4> Experience </h4>
+
+- `한국교육정보화재단(KREN) 클라우드팀 인턴`  <sub>(2023.12 ~ 진행중)</sub>
+
+<hr>
+
 <details hide> &nbsp;
 <summary>
  &nbsp;<a href = "https://storytaco.com/">(주)스토리타코</a> : 글로벌 인터렉티브 모바일 게임 회사. <a href = "https://storyoffer.de/Home">오퍼월 프로젝트</a> 기획, 디자인, 퍼블리시 <sub>(2023.7.5 ~ 2023.8.30)</sub>
