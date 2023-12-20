@@ -4,12 +4,10 @@
 
 <h4> Experience </h4>
 
-
-<details hide> &nbsp;
 <summary>
  &nbsp;<a href = "https://kren.kr/main/index.html">한국교육정보화재단(KREN)</a> : 클라우드팀 인턴 <sub>(2023.12.15 ~ 진행중)</sub>
 </summary>
-</details>
+
 
 <details hide> &nbsp;
 <summary>
