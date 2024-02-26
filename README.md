@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=윤강현입니다&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=안되면 될 때까지 하는 개발자&fontSize=30<br/>윤강현입니다&fontSize=50&animation=twinkling)
 
 <hr>
 
