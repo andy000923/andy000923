@@ -5,6 +5,7 @@
 <h4> Experience </h4>
 
 <li><a href = "https://kren.kr/main/index.html">한국교육정보화재단(KREN)</a> : 클라우드팀 인턴 <sub>(2023.12.15 ~ 진행중)</sub></li> <br>
+<li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 5기 웹파트장 : 웹 리액트 스터디 리드, 프로젝트 리드  <sub>(2023.09 ~ 2024.02)</sub> </li> <br>
 
 <details hide> &nbsp;
 <summary>
