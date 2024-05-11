@@ -38,7 +38,6 @@
   <img src="https://pickle60.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffb18b5fe-8920-4ca3-b888-fc0121b7b931%2F%25EB%25A1%259C%25EA%25B3%25A01.png?table=block&id=bca7c69d-62a8-4714-b342-dc2e148102fb&spaceId=5d153a95-aadb-4e34-9e0a-d86ff3b2c1e7&width=250&userId=&cache=v2"/>
 </details>
 
-<br>
 <hr>
 
 <h3> Certificate </h3>
@@ -47,5 +46,4 @@
 |------------------------|
 | <div style="text-align: center;">  <a href="https://www.credly.com/badges/347fb739-0fff-486d-be98-7410530f8943/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a></div> |
 
-<br>
 <hr>
