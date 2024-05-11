@@ -42,9 +42,10 @@
 <hr>
 
 <h3> Certificate </h3>
+
 | AWS SAA |
 |------------------------|
-| <div style="text-align: center;">  <a href="https://www.credly.com/badges/77ba08f0-7837-4304-bc95-233dba4318c9/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a></div> |
+| <div style="text-align: center;">  <a href="https://www.credly.com/badges/347fb739-0fff-486d-be98-7410530f8943/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a></div> |
 
 <br>
 <hr>
