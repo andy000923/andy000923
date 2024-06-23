@@ -4,7 +4,7 @@
 
 <h3> Experience </h3>
 
-<li><a href = "https://kren.kr/main/index.html">한국교육정보화재단(KREN)</a> : 클라우드팀 인턴 <sub>(2023.12.15 ~ 진행중)</sub></li> <br>
+<li><a href = "https://kren.kr/main/index.html">한국교육정보화재단(KREN)</a> : 클라우드팀 인턴 <sub>(2023.12 ~ 2024.06)</sub></li> <br>
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 5기 웹파트장 : 웹 리액트 스터디 리드, 프로젝트 리드  <sub>(2023.09 ~ 2024.02)</sub> </li> <br>
 
 <details hide> &nbsp;
@@ -44,6 +44,6 @@
 
 | AWS SAA | LFX Protobuf |
 |------------------------|----------------------|
-| <div style="text-align: center;">  <a href="https://www.credly.com/badges/77ba08f0-7837-4304-bc95-233dba4318c9/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a></div> | <div style="text-align: center;">  <a href="https://www.credly.com/badges/fa4dca49-a07a-4f89-8877-dc803442819f/public_url"><img src="https://images.credly.com/size/110x110/images/f9690b1b-e389-4956-97be-a425bb03cbaa/image.png" width="100"></a></div> |
+| <div style="text-align: center;">  <a href="https://www.credly.com/badges/77ba08f0-7837-4304-bc95-233dba4318c9/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a></div> | <div style="text-align: center;">  <a href="https://www.credly.com/badges/fa4dca49-a07a-4f89-8877-dc803442819f/public_url"><img src="https://images.credly.com/size/110x110/images/75f8e656-f78f-4ba5-a98b-802db40c91ff/image.png" width="100"></a></div> |
 
 <hr>
