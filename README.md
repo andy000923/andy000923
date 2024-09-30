@@ -44,6 +44,6 @@
 
 | AWS SAA | LFX Protobuf |
 |------------------------|----------------------|
-| <div style="text-align: center;">  <a href="https://www.credly.com/badges/77ba08f0-7837-4304-bc95-233dba4318c9/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a></div> | <div style="text-align: center;">  <a href="https://www.credly.com/badges/fa4dca49-a07a-4f89-8877-dc803442819f/public_url"><img src="https://images.credly.com/size/110x110/images/75f8e656-f78f-4ba5-a98b-802db40c91ff/image.png" width="100"></a></div> |
+| <div style="text-align: center;">  <a href="https://www.credly.com/badges/77ba08f0-7837-4304-bc95-233dba4318c9/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a></div> | <div style="text-align: center;">  <a href="https://www.credly.com/badges/fa4dca49-a07a-4f89-8877-dc803442819f/public_url"><img src="https://images.credly.com/images/bd4f7858-39da-4504-b0a0-e9da488c260f/blob" width="100"></a></div> |
 
 <hr>
